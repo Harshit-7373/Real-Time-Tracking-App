@@ -12,6 +12,6 @@ A real-time tracking application that allows users to track their location and s
 
 
 # Installation :
-1. Clone the repository.
+1. Clone the repository
 2. Install the dependencies.
 3. Run "npx nodemon app.js".
